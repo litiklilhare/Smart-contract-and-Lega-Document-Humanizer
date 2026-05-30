@@ -1,0 +1,8 @@
+{
+  "name": "Smart Contract & Legal Document Humanizer",
+  "description": "Analyze, deobfuscate, and simplify complex legalese and smart contracts into plain, readable human English with rigorous risk scoring and anomaly detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
